@@ -37,14 +37,12 @@ nav{
     background-color: #F05670;
     border-radius: 30px;
     border: 1px solid #F05670;
-    color: white;
-    font-size: 16px;
+    color: white; font-size: 16px;
 }
 .pop{
     width: 99vw;
     background-color: #E0E7F5;
-    position: relative;
-    top: 2vh;
+    position: relative;top: 2vh;
     display: flex;
     justify-content: center;
 }
@@ -62,44 +60,35 @@ nav{
     flex-direction: column;
 }
 .sog h1{
-    color: #644696;
-    font-size: 34px;
+    color: #644696;font-size: 34px;
     font-weight: 700;
     width: 15vw;
     height: 9vh;
-    position: relative;
-    top: 14vh;
+    position: relative; top: 14vh;
 }
 .sog p{
-    color: black;
-    font-size: 14px;
+    color: black;font-size: 14px;
     font-weight: 400;
     width: 31vh;
     height: 7vh;
-    position: relative;
-    top: 15vh;
-    left: 0.3vw;
+    position: relative; top: 15vh; left: 0.3vw;
 }
 .sog button{
     width: 209px;
     height: 70px;
     font-size: 14px;
     font-weight: 600;
-    background-color: #F05670;
-    color: white;
+    background-color: #F05670; color: white;
     border: 1px solid #F05670;
     border-radius: 30px;
-    position: relative;
-    top: 16vh;
-    right: 2vw;
+    position: relative;top: 16vh;  right: 2vw;
 }
 .woo{
     width: 99vw;
     height: 10vh;
     display: flex;
     justify-content: center;
-    position: relative;
-    top: 5vh;
+    position: relative;top: 5vh;
 }
 .woo_container{
     width: 75vw;
@@ -112,8 +101,7 @@ nav{
 }
 .pipo{
     background-color: #E0E7F5;
-    position: relative;
-    top: 2vh;
+    position: relative; top: 2vh;
 }
 .pipo_container{
     width: 99vw;
